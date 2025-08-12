@@ -18,4 +18,19 @@ Um cliente pode gerar vários pagamentos.
 
 
 <img width="1365" height="720" alt="Captura de tela 2025-08-06 221839" src="https://github.com/user-attachments/assets/3f27fdff-40a4-4877-9cad-6b9aaab14623" />
-Esse é um exemplo de Query de criação, na qual eu criei a tabela 'pagamentos' com seus atributos: valor, forma de pagamento, data de pagamento e o número da locação. O comando 'insert into' insere dados na tabela.
+Esse é um exemplo de Comando de criação, na qual eu criei a tabela 'pagamentos' com seus atributos: valor, forma de pagamento, data de pagamento e o número da locação. O comando 'insert into' insere dados na tabela.
+
+Aqui estão algumas consultas feitas nas Tabelas: Filmes, clientes e Pagamentos.
+
+<img width="1919" height="1018" alt="Captura de tela 2025-08-12 104213" src="https://github.com/user-attachments/assets/2fbc3dd6-e3cc-4594-bbbf-73dd6cc8a18e" />
+
+Explicação das Consultas:
+
+Tabela Pagamentos.
+1. A primeira consulta seleciona os valores da tabela Pagamentos que sejam maiores que 5.50.
+2. A segunda consulta seleciona todos os valores entre 5.80 e 10.80.
+
+   Tabela Clientes.
+1. A primeira consulta seleciona todos os clientes que o nome começe com "f" e organiza-os em ordem alfabética.
+
+
