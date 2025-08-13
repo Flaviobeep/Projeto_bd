@@ -27,10 +27,14 @@ Aqui estão algumas consultas feitas nas Tabelas: Filmes, clientes e Pagamentos.
 Explicação das Consultas:
 
 Tabela Pagamentos.
-1. A primeira consulta seleciona os valores da tabela Pagamentos que sejam maiores que 5.50.
+1. A primeira consulta seleciona os valores da tabela Pagamentos que sejam maiores que 5.50;
 2. A segunda consulta seleciona todos os valores entre 5.80 e 10.80.
 
    Tabela Clientes.
-1. A primeira consulta seleciona todos os clientes que o nome começe com "f" e organiza-os em ordem alfabética.
+1. A primeira consulta seleciona todos os clientes que o nome começe com "f" e organiza-os em ordem alfabética;
+2. A segunda consulta seleciona todos os clientes que possuirem o id maior que 2.
 
+   Tabela Filmes.
+1. Seleciona todos os filmes que possuirem a Classificação maior que 14 anos;
+2. A segunda consulta seleciona apenas o Título e o Gênero de todos os filmes.
 
