@@ -16,9 +16,20 @@ Cada aluguel pode conter vários filmes, porém esses filmes devem estar associa
 Um aluguel gera um pagamento.
 Um cliente pode gerar vários pagamentos.
 
+Captura de Tela das Tabelas.
+
+<img width="1915" height="1015" alt="Captura de tela 2025-08-18 115840" src="https://github.com/user-attachments/assets/134a7f21-7f78-4a0a-9a46-28609b005fe2" />
+Essa é a tabela de Filmes que contém o Título, ID, Classificação, Ano de lançamento e o gênero de cada filme.
+
+<img width="1919" height="1018" alt="Captura de tela 2025-08-18 115902" src="https://github.com/user-attachments/assets/d37c4b1c-5611-489b-8e03-73e912f87f1d" />
+Essa é a tabela de Clientes, na qual contém o Nome, CPF, ID, Nascimento, e o Telefone de cada cliente.
+
+Comandos de Criação.
 
 <img width="1365" height="720" alt="Captura de tela 2025-08-06 221839" src="https://github.com/user-attachments/assets/3f27fdff-40a4-4877-9cad-6b9aaab14623" />
 Esse é um exemplo de Comando de criação, na qual eu criei a tabela 'pagamentos' com seus atributos: valor, forma de pagamento, data de pagamento e o número da locação. O comando 'insert into' insere dados na tabela.
+
+Consultas Relevantes.
 
 Aqui estão algumas consultas feitas nas Tabelas: Filmes, clientes e Pagamentos.
 
@@ -37,4 +48,14 @@ Tabela Pagamentos.
    Tabela Filmes.
 1. Seleciona todos os filmes que possuirem a Classificação maior que 14 anos;
 2. A segunda consulta seleciona apenas o Título e o Gênero de todos os filmes.
+
+Imagens do DER.
+
+Modelo conceitual.
+<img width="1046" height="853" alt="Captura de tela 2025-08-18 120852" src="https://github.com/user-attachments/assets/5f5d2e81-f1a7-4481-871d-aa32754f3702" />
+
+Modelo Lógico.
+<img width="1136" height="857" alt="Captura de tela 2025-08-18 120905" src="https://github.com/user-attachments/assets/9c4cb847-bd17-45f3-8bf3-e2b562eee605" />
+
+
 
