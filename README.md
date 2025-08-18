@@ -17,12 +17,13 @@ Um aluguel gera um pagamento.
 Um cliente pode gerar vários pagamentos.
 
 Captura de Tela das Tabelas.
-
-<img width="1915" height="1015" alt="Captura de tela 2025-08-18 115840" src="https://github.com/user-attachments/assets/134a7f21-7f78-4a0a-9a46-28609b005fe2" />
 Essa é a tabela de Filmes que contém o Título, ID, Classificação, Ano de lançamento e o gênero de cada filme.
+<img width="1915" height="1015" alt="Captura de tela 2025-08-18 115840" src="https://github.com/user-attachments/assets/134a7f21-7f78-4a0a-9a46-28609b005fe2" />
 
-<img width="1919" height="1018" alt="Captura de tela 2025-08-18 115902" src="https://github.com/user-attachments/assets/d37c4b1c-5611-489b-8e03-73e912f87f1d" />
+
 Essa é a tabela de Clientes, na qual contém o Nome, CPF, ID, Nascimento, e o Telefone de cada cliente.
+<img width="1919" height="1018" alt="Captura de tela 2025-08-18 115902" src="https://github.com/user-attachments/assets/d37c4b1c-5611-489b-8e03-73e912f87f1d" />
+
 
 Comandos de Criação.
 
@@ -52,9 +53,11 @@ Tabela Pagamentos.
 Imagens do DER.
 
 Modelo conceitual.
+
 <img width="1046" height="853" alt="Captura de tela 2025-08-18 120852" src="https://github.com/user-attachments/assets/5f5d2e81-f1a7-4481-871d-aa32754f3702" />
 
 Modelo Lógico.
+
 <img width="1136" height="857" alt="Captura de tela 2025-08-18 120905" src="https://github.com/user-attachments/assets/9c4cb847-bd17-45f3-8bf3-e2b562eee605" />
 
 
